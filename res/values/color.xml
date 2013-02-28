@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="textViewBackground">#002734</color>
+    <color name="textViewSelect">#003427</color>
+	<color name="textColor">#E0E0E0</color>
+</resources>

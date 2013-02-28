@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">シンプル・ノート</string>
+    <string name="save">保存</string>
+    <string name="no_note">ノートが入力されていません。</string>
+    <string name="delete_note">を削除しても宜しいですか？</string>
+    <string name="yes">はい</string>
+    <string name="cancel">いいえ</string>
+    <string name="delete_success">削除しました。</string>
+    <string name="delete_error">削除できませんでした。</string>
+    <string name="save_success">保存しました。</string>
+    <string name="save_error">保存できませんでした。</string>
+
+</resources>
